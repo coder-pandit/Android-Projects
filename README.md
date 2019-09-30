@@ -65,3 +65,4 @@ _Following apps are prepared for learnig only by taking some online courses:_
   - You can send friend requests to any user signed up to app.
   - Once you become freinds enjoy chatting.
   - Using firebase authentication, database, storage and firebase functions.
+  - This one is for the Tshirt
